@@ -8,11 +8,6 @@ Este proyecto es una práctica de Programación Orientada a Objetos (OOP) enfoca
 - **tests/**: Contiene las pruebas unitarias.
 - **docs/**: Documentación del proyecto.
 
-## Requisitos
-
-- Python 3.x
-- pytest (para ejecutar las pruebas)
-
 ## Instalación
 
 1. Clona el repositorio:
